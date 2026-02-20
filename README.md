@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Rawan, a student at FCAI (AKA Capital universty) in Egypt.
 
 <!--
 **rawan-log/rawan-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
